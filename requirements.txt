@@ -1,0 +1,4 @@
+opencv-python==4.8.1.78
+numpy==1.26.2
+cvzone==1.6.1
+folium==0.15.0
