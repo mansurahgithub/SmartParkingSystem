@@ -14,11 +14,11 @@ This system combines computer vision techniques with mapping capabilities to:
 ## Project Structure
 
 ```
-├── ParkingSpace.py       # Core parking space detection logic
+├── ParkingSpace.py       # Core parking space detection logic ( in the uploaded files section, you will find 3 such files because i implemented it for 3 videos)
 ├── interactive_map.py    # Map interface implementation
 ├── main_with_interactive.py # Main application entry point
 ├── requirements.txt     # Project dependencies
-├── carPark.mp4         # Sample video feed
+├── carPark.mp4         # Sample video feed ( you will find 3 such video files in the uplaoded section, because i used 3 sample videos)
 └── interactive_parking_map.html  # Generated map interface
 ```
 
@@ -42,7 +42,7 @@ This system combines computer vision techniques with mapping capabilities to:
 
 4. Run the application:
    ```bash
-   python main.py
+   python main_with_interactive.py
    ```
 
 ## Features
